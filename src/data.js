@@ -3,52 +3,52 @@ const randomColors = ["red", "violet", "purple", "pink"];
 const appData = {
   color: randomColors[Math.floor(Math.random() * randomColors.length)],
   user: {
-    name: "Satheesh Kumar",
-    initial: "D",
-    title: "Software Engineer",
-    contact_form_url: "https://contact.satheesh.dev/",
-    articles_url: "https://articles.satheesh.dev/",
-    about: `Software Engineer skilled in Python, Django, Flask, Java, and JavaScript. A strong engineering professional with a Bachelor of Engineering focused in Computer Science and strong engineering experience from HackerEarth `,
-    github_username: "satheesh1997",
+    name: "Subham  Singh",
+    initial: "Rajput",
+    title: "Application Engineer",
+    contact_form_url: "",
+    articles_url: "",
+    about: '',
+    github_username: "imsubhamsingh",
   },
   socials: [
     {
       name: "linkedin",
-      url: "https://www.linkedin.com/in/satheesh1997/",
+      url: "https://www.linkedin.com/in/imsubhamsingh/",
     },
-    {
+ 
       name: "github",
-      url: "https://github.com/satheesh1997",
+      url: "https://github.com/imsubhamsingh",
     },
     {
       name: "whatsapp",
-      url: "https://api.whatsapp.com/send?phone=919597264229",
+      url: "https://api.whatsapp.com/send?phone=9097434252",
     },
     {
       name: "twitter",
-      url: "https://twitter.com/git_push_tweet/",
+      url: "https://twitter.com/imsubhamsingh/",
     },
     {
       name: "instagram",
-      url: "https://www.instagram.com/esc_wq/",
+      url: "https://www.instagram.com/imsubhamsingh/",
     },
   ],
   contact_details: {
-    mobile: "+91-9597264229",
-    mail: "mail@satheesh.dev",
-    web: "https://satheesh.dev/",
+    mobile: "+91-9097434252",
+    mail: "geekysubham@gmail.com",
+    web: "imsubhamsingh.github.io",
     location: "Bengaluru, India",
   },
-  recent_article: {
+  recent_article: {/*
     image:
-      "https://i.ibb.co/HVhbHXm/screenshot-localhost-8000-1610268202874.png",
+      "",
     title: "How to access shell or shell based applications via internet?",
     description: `Nowadays everything in becoming remote, In this article I will explain you how to access any shell or shell based applications on your system via internet.
     To achieve this we will need to use a python package called Webpty.
     This package is written using python and will allow us to share the shell or shell based applications via internet.`,
     url:
       "https://articles.satheesh.dev/post/2021/how-to-share-shell-via-internet/",
-  },
+  */},
   experiences: [
     {
       role: "Senior Software Engineer",
